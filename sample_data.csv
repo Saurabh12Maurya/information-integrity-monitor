@@ -1,0 +1,7 @@
+claim_id,claim_text,mentions_1h,mentions_previous_1h,source_status,evidence_status,potential_impact
+C-001,Unverified public post claims a major water service disruption,120,45,public_post,not_checked,high
+C-002,Official notice confirms the weekend library opening hours,18,15,official_source,verified,low
+C-003,Public message alleges a local road closure without a source,72,50,public_post,not_checked,medium
+C-004,A widely shared post about an event cancellation is contradicted by the organiser,95,30,public_post,contradicted,medium
+C-005,Routine reminder about the community meeting schedule,12,10,public_post,verified,low
+C-006,Unverified claim about a public facility closure is gaining attention,88,25,public_post,not_checked,high
